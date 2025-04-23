@@ -50,7 +50,8 @@ Welcome to a machine learning-based project that predicts whether a customer sho
   - Random Forest
   - Extra Trees
   - Logistic Regression etc..
-
+ 
+  
 
 ✅ All top models achieved **100% accuracy** on the test set.
 
@@ -64,5 +65,16 @@ Welcome to a machine learning-based project that predicts whether a customer sho
 
 
 ⚡ **Preferred Model**: Extra Trees Classifier (faster with same accuracy)
+
+
+  ## 🤖 Model Used
+
+### Extra Trees Classifier
+
+- Chosen for its speed and robustness with large datasets
+- Applied after selecting the top 5 most relevant features:
+  - `Annual Income`, `Annual Expense`, `Occupation`, `Premium Affordability`, `Sum Assured`
+
+
 
 
