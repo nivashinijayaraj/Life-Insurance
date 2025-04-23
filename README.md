@@ -6,7 +6,7 @@ Welcome to a machine learning-based project that predicts whether a customer sho
 
 - **Total Records**: 2,999
 - **Target**: `Plan` – { `Term Plan`, `Traditional Plan` }
-- **Features**:
+- **Features**: 13
   - 'Name',`Age`, `Annual Income`, `Annual Expense`
   - `Height`, `Weight`, `BMI`
   - `Occupation`, `Medical History`, `Loan History`
