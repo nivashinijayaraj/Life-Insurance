@@ -53,14 +53,14 @@ Welcome to a machine learning-based project that predicts whether a customer sho
  
   
 
-✅ All top models achieved **100% accuracy** on the test set.
+✅ All top models achieved **good accuracy** on the test set.
 
 ## 🧪 Model Performance
 
 | Model                    | Accuracy | F1-Score | Time Taken |
 |--------------------------|----------|----------|------------|
-| Random Forest            | 100%     | 1.00     | 0.41s      |
-| Extra Trees              | 100%     | 1.00     | 0.21s      |
+| Random Forest            | 95%     | 0.90    | 0.41s      |
+| Extra Trees              | 95%     | 0.90     | 0.21s      |
 
 
 
