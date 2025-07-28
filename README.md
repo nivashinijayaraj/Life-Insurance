@@ -24,8 +24,8 @@ Welcome to a machine learning-based project that predicts whether a customer sho
 - **Language**: Python  
 - **Libraries**:  
   `pandas`, `numpy`, `scikit-learn`, `plotly`, `seaborn`, `lazypredict`  
-- **Models**:  
-  `ExtraTreesClassifier`, `RandomForestClassifier`, `LogisticRegression`, `XGBoost`
+- **Model**
+- `RandomForestClassifier`, `LogisticRegression`, `XGBoost`
 
 ## 📌 Key Concepts
 
