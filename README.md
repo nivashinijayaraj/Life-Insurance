@@ -60,20 +60,7 @@ Welcome to a machine learning-based project that predicts whether a customer sho
 | Model                    | Accuracy | F1-Score | Time Taken |
 |--------------------------|----------|----------|------------|
 | Random Forest            | 95%     | 0.90    | 0.41s      |
-| Extra Trees              | 95%     | 0.90     | 0.21s      |
 
-
-
-⚡ **Preferred Model**: Extra Trees Classifier (faster with same accuracy)
-
-
-  ## 🤖 Model Used
-
-### Extra Trees Classifier
-
-- Chosen for its speed and robustness with large datasets
-- Applied after selecting the top 5 most relevant features:
-  - `Annual Income`, `Annual Expense`, `Occupation`, `Premium Affordability`, `Sum Assured`
 
 
 
